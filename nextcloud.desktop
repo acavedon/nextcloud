@@ -1,7 +1,7 @@
 [Desktop Entry]
 Version=1.0
 Type=Application
-Exec=/home/alexandre/apps/nextcloud/Nextcloud-3.6.2-x86_64.appimage
+Exec=/home/alexandre/apps/nextcloud/Nextcloud-3.6.2-x86_64.AppImage
 Icon=/home/alexandre/apps/nextcloud/32-Nextcloud-icon.png
 StartupNotify=true
 Terminal=false
